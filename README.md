@@ -42,3 +42,9 @@ The dataset forms the foundation of the Customer Retention and Churn Analysis Re
 - **Outlier Detection**: Inspected numeric fields (e.g., Total_Spend, Satisfaction_Score) for outliers that might indicate data errors, flagging extreme values for review.
 - **Date Consistency**: Ensured First_Purchase_Date and Last_Purchase_Date were uniformly formatted and covered the analysis period (2019–2024).
 - **Derived Columns**: Created DaysSinceLastPurchase in Power Query (Duration.Days(Date.From(DateTime.LocalNow()) - Date.From([Last_Purchase_Date]))) to support recency analysis.
+
+# Executive Summary
+
+### Overview of Findings
+The analysis reveals a significant churn challenge, with a 30.35% churn rate and 70.08% of customers (15,816) inactive for over a year, signaling a critical need for retention strategies. The average satisfaction score of 49.92/100 suggests poor customer experience as a potential driver of churn. Retention rates fluctuate between 62.45% and 75.28% from 2019 to 2024, with no clear long-term trend, indicating seasonal or external influences. Churn rates are nearly uniform across customer segments (High-Value: 30.55%, Medium-Value: 30.55%, Low-Value: 29.93%), suggesting retention issues are widespread. Product category preferences are evenly distributed (3,258–3,400 customers), with Sport leading slightly. Regionally, North America has the highest churn rate (32.13%), while Oceania has the lowest (29.47%).
+
