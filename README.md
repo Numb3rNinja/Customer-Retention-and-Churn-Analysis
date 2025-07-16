@@ -60,3 +60,8 @@ Churn rates across customer value segments reveal a critical insight: High-Value
 
 **Category Preference Analysis**  
 Category engagement is remarkably balanced across product lines: Sport (3,400 customers), Beauty (3,385), Electronics (3,338), Toys (3,311), Fashion (3,308), and Home and Garden (3,258). This parity suggests that churn is not driven by category-specific issues like product performance or inventory gaps. Instead, attrition likely stems from cross-category factors such as delivery experience, customer service responsiveness, or platform usability. The absence of category dominance reinforces the need for holistic experience improvements rather than category-level interventions.  
+![Image](https://github.com/user-attachments/assets/f73d328d-9800-4941-9bd5-767f4d49334d) 
+
+**Customer Recency Distribution Analysis**  
+The recency analysis exposes a severe dormancy crisis: 79.08% of customers (15,816) have not made a purchase in over a year, while only 20.92% (4,184) remain active within the past year. This imbalance indicates failing retention mechanisms, where customers disengage rapidly after initial purchases. Potential causes include inadequate post-purchase engagement, weak loyalty programs, or insufficient win-back campaigns. The sheer scale of long-inactive customers represents both a risk (eroding revenue base) and opportunity (reactivation potential), demanding urgent intervention.  
+
