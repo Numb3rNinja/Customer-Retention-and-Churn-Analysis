@@ -56,3 +56,7 @@ The monthly retention data from January 2019 to December 2024 exhibits pronounce
 
 **Customer Segmentation Analysis**  
 Churn rates across customer value segments reveal a critical insight: High-Value (30.55%), Medium-Value (30.55%), and Low-Value (29.93%) segments exhibit near-identical attrition. This uniformity implies that churn drivers transcend customer lifetime value (CLV) tiers, pointing to universal pain points such as product quality gaps, poor user experience, or ineffective communication strategies. The equal vulnerability of high-value customers is particularly concerning, as their departure disproportionately impacts revenue. This segmentation analysis underscores that retention strategies must address core experience flaws rather than targeting segments in isolation.  
+![Image](https://github.com/user-attachments/assets/a2d9cea8-a55a-4522-9c90-6ec658886945)
+
+**Category Preference Analysis**  
+Category engagement is remarkably balanced across product lines: Sport (3,400 customers), Beauty (3,385), Electronics (3,338), Toys (3,311), Fashion (3,308), and Home and Garden (3,258). This parity suggests that churn is not driven by category-specific issues like product performance or inventory gaps. Instead, attrition likely stems from cross-category factors such as delivery experience, customer service responsiveness, or platform usability. The absence of category dominance reinforces the need for holistic experience improvements rather than category-level interventions.  
