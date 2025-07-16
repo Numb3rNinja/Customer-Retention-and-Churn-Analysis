@@ -64,4 +64,8 @@ Category engagement is remarkably balanced across product lines: Sport (3,400 cu
 
 **Customer Recency Distribution Analysis**  
 The recency analysis exposes a severe dormancy crisis: 79.08% of customers (15,816) have not made a purchase in over a year, while only 20.92% (4,184) remain active within the past year. This imbalance indicates failing retention mechanisms, where customers disengage rapidly after initial purchases. Potential causes include inadequate post-purchase engagement, weak loyalty programs, or insufficient win-back campaigns. The sheer scale of long-inactive customers represents both a risk (eroding revenue base) and opportunity (reactivation potential), demanding urgent intervention.  
+![Image](https://github.com/user-attachments/assets/a113032f-b722-494a-aa9d-2294727469c2)
+
+**Regional Analysis**  
+Geographical churn patterns reveal significant disparities: North America suffers the highest churn (32.13%), followed by Asia (30.46%), South America (30.12%), Africa (30.06%), Europe (29.83%), and Oceania (29.47%). North America’s outlier status suggests region-specific challenges like localized competition, cultural misalignment in marketing, or logistical inefficiencies. Conversely, Oceania’s relatively lower churn may offer best-practice insights. The regional variance highlights that while global strategies are needed, targeted tactics for high-churn regions—especially North America—are essential.  
 
