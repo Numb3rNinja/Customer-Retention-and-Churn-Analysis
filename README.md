@@ -44,8 +44,8 @@ The dataset forms the foundation of the Customer Retention and Churn Analysis Re
 - **Derived Columns**: Created DaysSinceLastPurchase in Power Query (Duration.Days(Date.From(DateTime.LocalNow()) - Date.From([Last_Purchase_Date]))) to support recency analysis.
 
 Deliverables
-
-Power BI sales performance analysis.pbix file with the dashboard.
+- Power BI [customer retention and churn analysis.pbix](https://github.com/Numb3rNinja/Customer-Retention-Churn-Analysis-Dashboard.git) file with the dashboard.
+  
 # Executive Summary
 
 ### Overview of Findings
